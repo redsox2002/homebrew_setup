@@ -7,4 +7,4 @@
 brew install $(< brew_list.txt )
 
 # Install caskroom packages
-brew cask install $(< brew_cast_list.txt )
+brew cask install $(< brew_cask_list.txt )
