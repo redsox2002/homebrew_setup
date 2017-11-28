@@ -11,3 +11,9 @@ brew install $(< brew_list.txt )
 
 # Install caskroom packages
 brew cask install $(< brew_cask_list.txt )
+
+# Download Google Chrome .dmg
+wget https://download.docker.com/mac/stable/Docker.dmg
+
+# Download Franz .dmg
+wget https://github.com/meetfranz/franz/releases/download/v5.0.0-beta.14/franz-5.0.0-beta.14.dmg

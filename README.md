@@ -1,12 +1,8 @@
 # dotfiles
 
 Things to note for new mac setup:
-1. Install all HashiCorp tools (Vagrant, Terraform, Consul, Nomad, Vault)
-2. Install iterm2
-3. Install zsh (use this article: https://gist.github.com/kevin-smets/8568070)
-4. Install docker
-5. Install monosnap, spectacle, vagrant manager, and istat menus
-6. Install Franz
-7. Install python3.6
-8. Install Atom and use sync-settings to restore settings
-9. Install necessary fonts
+1. Run `./mac_setup.sh` to install most programs/tools
+2. Install zsh (use this article: https://gist.github.com/kevin-smets/8568070) and configure
+3. Install monosnap, spectacle, and istat menus in mac app store
+4. Use sync-settings in Atom to restore settings
+5. Install necessary fonts
