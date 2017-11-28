@@ -1,3 +1,0 @@
-rdm
-powershell
-rdm
