@@ -3,10 +3,6 @@ rdm
 virtualbox
 vagrant
 vagrant-manager
-terraform
-nomad
-consul
-vault
 google-chrome
 iterm2
 atom
